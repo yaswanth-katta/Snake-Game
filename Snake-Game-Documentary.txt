@@ -32,7 +32,7 @@
     4.Edges():
        *This method for the display the Boarder.
          -which means the snake can move the within the boarder.
-         -If the snake the touches the edges then snake life can be                                   reduced
+         -If the snake the touches the edges then snake life can be reduced
           by using the method Exitgame(Which is expalined in below)
 
     5.Food():
